@@ -54,7 +54,7 @@ When you run data_analysis.py, you should see some output such as survival curve
 *I compiled season 1-7, 9-13. I did not include season 8 because it was an “All-Stars” season where previous contestants were brought back to compete.
 
 ## Figures:
-![Image](./Figures/Survival-by-age.png)
+![Image](./Figures/survival-by-age.png)
 
 ![Image](./Figures/survival-by-wins.png)
 
